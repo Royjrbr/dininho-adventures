@@ -1,0 +1,11 @@
+.title-dino {
+
+    font-family: "bungee";
+    color:#ffffff;
+    font-size: 28px;
+    text-align: center;
+    margin-top:  var(--gap-big);
+    margin-bottom: var(--gap-big);
+
+
+}

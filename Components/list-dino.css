@@ -1,0 +1,15 @@
+    .list-dino {
+
+        font-family: "Nunito";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 20px;
+
+color: #3D1132;
+    }
+
+    .list-dino .item {
+
+        margin-bottom: var(--gap-medium);
+    }

@@ -1,0 +1,12 @@
+.content-dino {
+
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #ffff;
+    margin-top: var(--gap-big);
+
+}
