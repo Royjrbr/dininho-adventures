@@ -1,0 +1,10 @@
+
+    .footer-dino {
+
+        padding-bottom: var(--gap-big);
+    }
+
+    .footer-dino > .content-short {
+
+        margin-bottom: var(--gap-medium);
+    }

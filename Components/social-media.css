@@ -1,0 +1,22 @@
+
+    .social-media {
+
+        display:block;
+        height: 30px;
+        width: 30px;
+        text-indent: -9999px;
+        background-repeat: no-repeat;
+        
+    }
+
+    .social-media[href*="Twitch"]
+    {background-image: url("/img/twitch.png");}
+
+    .social-media[href*="Twitter"]
+    {background-image: url("/img/twiiter.png");}
+
+    .social-media[href*="Discordapp"]
+    {background-image: url("/img/Discord.png");}
+
+
+    

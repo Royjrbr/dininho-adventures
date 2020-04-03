@@ -4,6 +4,8 @@
 @import url("/img/");
 
 @import url("/elements/title-dino.css");
+@import Url("/elements/wrapper-social.css");
+@import url("/elements/footer-dino.css");
 
 @import url("/settings/gaps.css");
 @import url("/settings/Colors.css");
@@ -12,5 +14,6 @@
 @import url("/Components/sub-title.css");
 @import url("/Components/list-dino.css");
 @import url("/Components/separator-dino.css");
-@import url("/Components/content-short.css")
+@import url("/Components/content-short.css");
+@import url("/Components/social-media.css")
 
